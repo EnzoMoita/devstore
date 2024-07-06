@@ -12,7 +12,7 @@ const config: Config = {
     },
     gridTemplateRows: {
       app: 'min-content max-content',
-    }
+    },
   },
   plugins: [],
 };
